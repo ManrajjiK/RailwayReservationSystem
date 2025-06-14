@@ -26,5 +26,5 @@ A console-based Railway Reservation System built using C++. It allows users to b
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/username/RailwayReservationSystem.git
+   git clone https://github.com/ManrajjiK/RailwayReservationSystem.git
    cd RailwayReservationSystem
