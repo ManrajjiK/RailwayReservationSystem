@@ -6,12 +6,12 @@ A console-based Railway Reservation System built using C++. It allows users to b
 ## structure 
 
 RailwayReservationSystem/
-├── main.cpp               # Entry point - Menu handling
-├── train.cpp / .h         # Train details & logic
-├── passenger.cpp / .h     # Passenger data management
-├── reservation.cpp / .h   # Booking, cancellation, PNR logic
-├── reservation.exe        # Compiled executable (ignored in Git)
-├── README.md              # This file 🧾
+-├── main.cpp               # Entry point - Menu handling
+-├── train.cpp / .h         # Train details & logic
+-├── passenger.cpp / .h     # Passenger data management
+-├── reservation.cpp / .h   # Booking, cancellation, PNR logic
+-├── reservation.exe        # Compiled executable (ignored in Git)
+-├── README.md              # This file 🧾
 
 
 ##  Features
