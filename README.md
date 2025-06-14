@@ -1,10 +1,10 @@
-# 🚆 Railway Reservation System (C++)
+#  Railway Reservation System (C++)
 
 A console-based Railway Reservation System built using C++. It allows users to book and cancel train tickets, view PNR status, and handles waitlisting. Data is stored persistently using file I/O.
 
 ---
 
-## ✨ Features
+##  Features
 
 - Book tickets with unique PNR
 - Cancel bookings and auto-assign from waitlist
@@ -14,7 +14,7 @@ A console-based Railway Reservation System built using C++. It allows users to b
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - Language: **C++**
 - Concepts Used: `OOP`, `File Handling`, `STL (vector, queue, map)`
